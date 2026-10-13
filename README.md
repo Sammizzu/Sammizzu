@@ -61,11 +61,9 @@ The study integrates competency development, instrument validation, needs assess
 
 ## Connect
 
-**GitHub:** [Sammizzu](https://github.com/Sammizzu)
-
-**LinkedIn:** To be added
-
-**Research Publications:** To be added
+- **LinkedIn:** [Xiaoyan Liu](https://www.linkedin.com/in/xiaoyan-liu-7636b2287/)
+- **ORCID:** [0009-0005-1354-0262](https://orcid.org/0009-0005-1354-0262)
+- **GitHub:** [Sammizzu](https://github.com/Sammizzu)
 
 ---
 
